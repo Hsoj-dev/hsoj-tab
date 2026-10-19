@@ -5,7 +5,7 @@ A minimalist new-tab page with a clock, search, news, shortcuts, and a todo list
 ![Hsoj-Tab](demo-pic.jpg)
 
 ## Try it!
-Visit [Hsoj-Tab](https://hsoj.is-a.dev/projects/hsoj-tab)
+Visit [Hsoj-Tab](https://hsoj.is-a.dev/projects/hsojTab)
 
 ## Features
 
